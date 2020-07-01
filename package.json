@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "9.4.4",
+    "now": "19.1.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-ga": "3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "now-build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC"
+}
